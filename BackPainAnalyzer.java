@@ -1,3 +1,7 @@
+import jsjf.*;
+import java.io.*;
+import java.util.*;
+
 public class BackPainAnalyzer
 {
     /**
