@@ -1,3 +1,6 @@
+//3179. Find the N-th Value After K Seconds
+//Difficulty Medium
+
 class Solution {
     public int valueAfterKSeconds(int n, int k) {
         
