@@ -1,7 +1,7 @@
 
 using System;
 
-namespace Assignment4COMP
+namespace openFile
 {
     public partial class Form1 : Form
     {
